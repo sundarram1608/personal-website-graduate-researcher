@@ -1075,9 +1075,10 @@ with col3:
 
 st.markdown(
               """
-              <div style="text-align:center; padding: 60px 0 20px 0; scroll-margin-top: 90px;">
-              <h2 style="font-size: 2.8rem;">Other Engineering & Applied ML Projects</h2>
-              </div>
+            <div id="projects" style="text-align:center; padding: 60px 0 20px 0; scroll-margin-top: 90px;">
+              <h2>Other Engineering & Applied ML Projects</h2>
+            </div> 
+
               """,
               unsafe_allow_html=True,
           )
