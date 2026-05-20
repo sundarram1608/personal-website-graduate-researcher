@@ -13,10 +13,10 @@ BASE_DIR = Path(__file__).resolve().parent
 # PAGE CONFIGURATION
 # -----------------------------
 
-img_path = BASE_DIR / "images" / "pageicon.png"
-icon = Image.open(img_path)
+# img_path = BASE_DIR / "images" / "pageicon.png"
+# icon = Image.open(img_path)
 
-st.set_page_config(page_title="Sundar Ram Subramanian: Portfolio", page_icon = icon, layout="wide") 
+st.set_page_config(page_title="Sundar Ram Subramanian: Portfolio", layout="wide") 
 
 
 
