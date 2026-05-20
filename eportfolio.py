@@ -507,7 +507,8 @@ st.markdown(
           )
 #                       <span class="highlight-name">Data Scientist</span><span class="highlight-name"> & </span><span class="highlight-name">Machine Learning Engineer</span>
 #                       Leveraging Deep Learning and Information Retrieval techniques 
-
+st.write("")
+st.write("")
 st.markdown(
               """         
               <div style="text-align:center; padding-bottom: 20px;">
