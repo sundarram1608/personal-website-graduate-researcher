@@ -515,7 +515,7 @@ st.markdown(
                   <!-- Call-to-action buttons -->
                   <div style="margin-top: 30px;">
                       <a href="#research" class="cta-button">View My Research</a>
-                      <a href="https://drive.google.com/file/d/1dr2qTebQpG4--YDAUBTIScnHgVFWbvCu/view?usp=share_link" target="_blank" rel="noopener noreferrer" class="cta-button-resume">View CV</a>
+                      <a href="https://drive.google.com/file/d/1fCQQMPgHiGoxqs206N8ny95k6mCKnVGF/view?usp=share_link" target="_blank" rel="noopener noreferrer" class="cta-button-resume">View CV</a>
                   </div>
               </div>
               """,
@@ -1604,7 +1604,7 @@ st.markdown(
                         Email
                     </a>
                     <!-- View CV -->
-                    <a href="https://drive.google.com/file/d/1dr2qTebQpG4--YDAUBTIScnHgVFWbvCu/view?usp=share_link"
+                    <a href="https://drive.google.com/file/d/1fCQQMPgHiGoxqs206N8ny95k6mCKnVGF/view?usp=share_link"
                        target="_blank"
                        rel="noopener noreferrer"
                        class="cta-button-resume">
