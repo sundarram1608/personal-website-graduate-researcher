@@ -515,7 +515,7 @@ st.markdown(
                   <!-- Call-to-action buttons -->
                   <div style="margin-top: 30px;">
                       <a href="#research" class="cta-button">View My Research</a>
-                      <a href="https://drive.google.com/file/d/1fCQQMPgHiGoxqs206N8ny95k6mCKnVGF/view?usp=share_link" target="_blank" rel="noopener noreferrer" class="cta-button-resume">View CV</a>
+                      <a href="https://drive.google.com/file/d/1Q0EDuJfznRASAvadAjP-wG2ZmDwH324u/view?usp=share_link" target="_blank" rel="noopener noreferrer" class="cta-button-resume">View CV</a>
                   </div>
               </div>
               """,
