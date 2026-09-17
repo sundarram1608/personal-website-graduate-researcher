@@ -1604,7 +1604,7 @@ st.markdown(
                         Email
                     </a>
                     <!-- View CV -->
-                    <a href="https://drive.google.com/file/d/1Q0EDuJfznRASAvadAjP-wG2ZmDwH324u/view?usp=share_link"
+                    <a href="https://drive.google.com/drive/folders/1pemjNPQ4p-cu2FzKG6EgwiHMIDjguOkM?usp=share_link"
                        target="_blank"
                        rel="noopener noreferrer"
                        class="cta-button-resume">
